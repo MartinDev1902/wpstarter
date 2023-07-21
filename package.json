@@ -1,0 +1,12 @@
+{
+  "name": "wpstarter",
+  "version": "1.0.0",
+  "description": "WordPress starter",
+  "main": "gulpfile.js",
+  "repository": "https://github.com/MartinDev1902/wpstarter",
+  "author": "Aliaksandr Martsinets",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
